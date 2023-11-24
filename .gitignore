@@ -1,0 +1,10 @@
+.DS_Store
+coverage/
+.vscode/
+.idea/
+.metals/
+.log/
+*~
+**/keyfile
+**/build/
+**/node_modules
